@@ -1,8 +1,6 @@
 ### 👋👋👋👋👋👋👋
 ![amssljc's github stats](https://github-readme-stats.vercel.app/api?username=amssljc)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amssljc)](https://github.com/amssljc/github-readme-stats)
 <!--
 **amssljc/amssljc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
